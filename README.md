@@ -1,8 +1,4 @@
-Perfect 👍 Please copy and replace your entire `README.md` content with the cleaned and fully formatted version below — it’s based exactly on what appears in your screenshot, just rewritten for **proper Markdown rendering on GitHub** 👇
 
----
-
-````markdown
 # Django Sales Analytics API
 
 Lightweight REST API for sales analytics built with **Django + Django REST Framework**.  
@@ -157,3 +153,4 @@ python manage.py test
 ```
 
 ---
+
